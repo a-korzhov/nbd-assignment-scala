@@ -1,4 +1,4 @@
-package assignment_1
+package assignment1_2
 
 /**
  * @project assignment-1
@@ -8,8 +8,8 @@ package assignment_1
 
 object item_5_to_9 extends App {
 
-  import assignment_1.Lists.myMap
-  import assignment_1.Lists.listInt
+  import assignment1_2.Lists.myMap
+  import assignment1_2.Lists.listInt
 
   private val reduced: Map[String, Int] = reduceMapValue(myMap)
   private val value: List[Int] = increaseByOne(listInt)

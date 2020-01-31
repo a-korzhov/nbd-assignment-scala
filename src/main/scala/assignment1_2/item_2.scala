@@ -1,4 +1,4 @@
-package assignment_1
+package assignment1_2
 
 /**
  * @project assignment-1
@@ -6,7 +6,7 @@ package assignment_1
  * @createdAt 16-Oct-19
  */
 object item_2 extends App {
-  import assignment_1.Lists.list
+  import assignment1_2.Lists.list
 
   println("Iteration recursively: " + iterateRecursively(list)("Value: " + _).mkString(" , "))
   println("------------------------------------------------")

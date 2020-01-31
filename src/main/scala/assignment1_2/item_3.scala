@@ -1,4 +1,4 @@
-package assignment_1
+package assignment1_2
 
 /**
  * @project assignment-1
@@ -7,7 +7,7 @@ package assignment_1
  */
 object item_3 extends App {
 
-  import assignment_1.Lists.list
+  import assignment1_2.Lists.list
 
   println(tailRecursiveIteration(list))
 

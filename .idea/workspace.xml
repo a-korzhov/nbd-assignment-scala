@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="252ef676-7cc5-41fb-93c8-816c68298ab3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MessagesViewTool">
+    <option name="defaultListState">
+      <MessageListState>
+        <option name="autoscrollToSource" value="true" />
+        <option name="info" value="true" />
+        <option name="warnings" value="true" />
+      </MessageListState>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XAXa4U9QaAzDxRB1bbiw1qBCrF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assignments4-6" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assignments4-6" />
+    </key>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="nbd-assignment-scala" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="nbd-assignment-scala [file:/home/andrew/Programming/scala/nbd-assignment-scala/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="nbd-assignment-scala-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="35594976" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="252ef676-7cc5-41fb-93c8-816c68298ab3" name="Default Changelist" comment="" />
+      <created>1580489932120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580489932120</updated>
+      <workItem from="1580489936028" duration="1268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UsagesViewTool">
+    <version id="1" />
+    <tabs />
+    <default_view_options>
+      <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
+    </default_view_options>
+  </component>
+</project>
